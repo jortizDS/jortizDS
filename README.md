@@ -17,7 +17,7 @@ I develop models, dashboards, and data pipelines to support environmental and hy
 
 - Built predictive models using regression and trend analysis for environmental datasets
 - Created summary tables and statistical reports used in decision-making and publications 
-- Designed interactive Power BI dashboards to streamline scientific review processes  
+- Designed interactive dashboards to streamline scientific review processes  
 - Published reproducible research in peer-reviewed journals using R
 
 ---
@@ -32,6 +32,9 @@ Interactive dashboard to explore University of Illinois enrollment trends by dem
 *Python, XGBoost, Random Forests*  
 Built classification models to predict flight delays using weather and traffic data. Improved decision-making for flight scheduling.
 
+### 🚗 [Car Sales Dashboard]()
+*Excel, PivotTables, Sparklines*
+Built an interactive Excel dashboard to visualize 2014 car sales data and provide quick insights into top-selling makes, sales by month, region, and mileage distributions.
 ---
 
 ## 🛠️ Tools & Skills
