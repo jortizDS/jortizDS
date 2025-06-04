@@ -15,7 +15,8 @@ I develop models, dashboards, and data pipelines to support environmental and hy
 
 ## 💼 Experience Highlights
 
-- Built predictive models using regression, trend analysis, and NLP for environmental datasets  
+- Built predictive models using regression and trend analysis for environmental datasets
+- Created summary tables and statistical reports used in decision-making and publications 
 - Designed interactive Power BI dashboards to streamline scientific review processes  
 - Published reproducible research in peer-reviewed journals using R
 
