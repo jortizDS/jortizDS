@@ -34,10 +34,10 @@ Interactive dashboard to explore University of Illinois enrollment trends by dem
 
 Built classification models to predict flight delays using weather and traffic data. Improved decision-making for flight scheduling.
 
-### 🚗 [Car Sales Dashboard]()
-*Excel, PivotTables, Sparklines*
+### 🚗 [Car Sales Dashboard](https://github.com/jortizDS/CarSalesExcel)
+*Excel, PivotTables, Visualizations*
 
-Built an interactive Excel dashboard to visualize 2014 car sales data and provide quick insights into top-selling makes, models, sales by month and region, and mileage distribution. 
+Built an Excel dashboard to visualize 2014 car sales data and provide quick insights into top-selling makes, models, sales by month and region, and mileage distribution. 
 
 ---
 
