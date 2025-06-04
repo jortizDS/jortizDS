@@ -26,10 +26,12 @@ I develop models, dashboards, and data pipelines to support environmental and hy
 
 ### 📊 [College Enrollment Visualization App](https://github.com/jortizDS/EnrollmentVisualizations)
 *Built with R & Shiny*  
+
 Interactive dashboard to explore University of Illinois enrollment trends by demographics and geography.
 
 ### 🛫 [Airline Delay Prediction]()
 *Python, XGBoost, Random Forests*  
+
 Built classification models to predict flight delays using weather and traffic data. Improved decision-making for flight scheduling.
 
 ### 🚗 [Car Sales Dashboard]()
