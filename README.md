@@ -34,7 +34,8 @@ Built classification models to predict flight delays using weather and traffic d
 
 ### 🚗 [Car Sales Dashboard]()
 *Excel, PivotTables, Sparklines*
-Built an interactive Excel dashboard to visualize 2014 car sales data and provide quick insights into top-selling makes, sales by month, region, and mileage distributions.
+Built an interactive Excel dashboard to visualize 2014 car sales data and provide quick insights into top-selling makes, models, sales by month and region, and mileage distribution. 
+
 ---
 
 ## 🛠️ Tools & Skills
