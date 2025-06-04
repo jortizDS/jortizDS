@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Jaqueline
 
 🎓 **Statistician | Aspiring Data Scientist**  
 💡 Passionate about using data to drive decisions, solve problems, and build tools that make complex information understandable.
