@@ -29,13 +29,22 @@ I develop models, dashboards, and data pipelines to support environmental and hy
 
 Interactive dashboard to explore University of Illinois enrollment trends by demographics and geography.
 
+### 🛍️ [Retail Sales Dashboard](https://github.com/jortizDS/SuperstoreSalesExcel)
+*Excel*  
+
+Interactive Excel dashboard to analyze superstore sales trends across time, regions, and product categories.
+
+### 🌊 [HABs Exploration](https://github.com/jortizDS/HABsExploration)
+*Python*
+
+Python-based exploratory notebook to analyze seasonal and long-term chlorophyll a trends at Starved Rock using USGS NWIS data to assess potential harmful algal bloom risks.
+
 ### 🛫 [Airline Delay Prediction]
-*Python, XGBoost, Random Forests*  
+*Python*  
 
 Built classification models to predict flight delays using weather and traffic data. Improved decision-making for flight scheduling.
 
-### 🚗 [Car Sales Dashboard](https://github.com/jortizDS/CarSalesExcel)
-*Excel, PivotTables, Visualizations*
+
 
 Built an Excel dashboard to visualize 2014 car sales data and provide quick insights into top-selling makes, models, sales by month and region, and mileage distribution. 
 
