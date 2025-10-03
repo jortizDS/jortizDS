@@ -25,7 +25,7 @@ I develop models, dashboards, and data pipelines to support environmental and hy
 ## 📁 Selected Projects
 
 ### 📊 [College Enrollment Visualization App](https://github.com/jortizDS/EnrollmentVisualizations)
-*Built with R & Shiny*  
+*Built with R & Shiny, and Tableau*  
 
 Interactive dashboard to explore University of Illinois enrollment trends by demographics and geography.
 
@@ -39,10 +39,6 @@ Interactive Excel dashboard to analyze superstore sales trends across time, regi
 
 Python-based exploratory notebook to analyze seasonal and long-term chlorophyll a trends at Starved Rock using USGS NWIS data to assess potential harmful algal bloom risks.
 
-### 🛫 [Airline Delay Prediction]
-*Python*  
-
-Built classification models to predict flight delays using weather and traffic data. Improved decision-making for flight scheduling.
 
 
 ---
